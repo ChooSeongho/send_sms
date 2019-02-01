@@ -2,7 +2,8 @@
 smsgateway(https://smsgateway.me/)를 사용하여 자신의 핸드폰에서 다른사람의 핸드폰으로 sms 발송
 
 ex)
-```let send_sms = require('./send_sms');
+```
+let send_sms = require('./send_sms');
 
 let option = {
   token : "smsgateway에서 받은 API Token",
